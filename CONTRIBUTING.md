@@ -14,7 +14,7 @@ Thanks for being here! This repo exists so you can practise. Mistakes are wellco
 ## Before you start
 
 1. Pick an issue, or find a problem yourself.
-2. Comment **"Can I take this?"** on the issue so two people don't do the same work.
+2. Comment **"Can I take this?"** on the issue so two people don't do the same wrok.
 3. One issue = one small pull request.
 
 ## The workflow
@@ -55,4 +55,4 @@ Create a new file `contributors/<your-github-username>.md` with one line about y
 
 ## Stuck?
 
-Ask in the ö-esu-esu WhatsApp group, or comment on your issue. Nobody minds questions.
+Ask in the ö-esu-esu WhatsApp group, or comment on your issue. Nobody minds questoins.
