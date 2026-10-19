@@ -4,7 +4,7 @@
 
 ## We expect you to
 
-- Be kind and pateint, especially with people who are new.
+- Be kind and patient, especially with people who are new.
 - Give feedback on the work, not the person.
 - Assume good intent, and ask before assuming.
 
